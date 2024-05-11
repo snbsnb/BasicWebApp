@@ -1,2 +1,2 @@
 # BasicWebApp
-![Bruh]("docs\images\Container App System Design.pdf")
+![Bruh](docs\images\container_app_system_design.png)
